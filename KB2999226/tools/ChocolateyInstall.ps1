@@ -1,7 +1,7 @@
 
 
 		# Variables
-		$kb = "kb2999226"
+		$kb = "KB2999226"
 		$packageName = $kb
 		$proceed = $false
 		# Windows Systems That Qualify for KB2999226
